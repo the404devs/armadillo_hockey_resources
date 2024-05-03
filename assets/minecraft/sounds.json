@@ -1,0 +1,35 @@
+{
+    "hockey.goal": {
+        "subtitle": "Goal scored",
+        "sounds": [
+            {
+                "name": "custom:hockey/goal",
+                "stream": false,
+                "attenuation_distance": 60,
+                "volume": 0.5
+            }
+        ]
+    },
+    "hockey.organ": {
+        "subtitle": "Organ plays",
+        "sounds": [
+            {
+                "name": "custom:hockey/organ",
+                "stream": true,
+                "attenuation_distance": 50,
+                "volume": 0.5
+            }
+        ]
+    },
+    "hockey.whistle": {
+        "subtitle": "Whistle screeches",
+        "sounds": [
+            {
+                "name": "custom:hockey/whistle",
+                "stream": false,
+                "attenuation_distance": 60,
+                "volume": 0.5
+            }
+        ]
+    }
+}
